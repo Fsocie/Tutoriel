@@ -26,6 +26,13 @@
    <label for="age">age</label>
    <input type="number" name="" id="age">
 
+   <label for="email">email</label>
+   <input type="email" name="" id="email">
+
+
+   <label for="paswword">mot de passe</label>
+   <input type="password" name="" id="password">
+
    <input type="submit" value="envoyez">
 
 </form>
